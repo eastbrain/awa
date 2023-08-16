@@ -1,2 +1,2 @@
 # awa
-AI Burrows-Wheeler Transform Aligner on based Artificial Intelligence
+AI Burrows-Wheeler Transform Aligner based on Artificial Intelligence
